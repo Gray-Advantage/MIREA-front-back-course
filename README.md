@@ -4,7 +4,7 @@
 Этот репозиторий является каркасом для будущего веб-приложения (наверное)
 
 ## Ссылки
-- [Публичная страница на GitHub Pages](https://gray-advantage.github.io/MIREA-front-back-course/)
+- [Публичная страница на GitHub Pages](https://gray-advantage.github.io/MIREA-front-back-course/src/index.html)
 
 ## Автор
 - Андреев Сергей ЭФБО-01-24
