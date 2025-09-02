@@ -4,7 +4,7 @@
 Этот репозиторий является каркасом для будущего веб-приложения (наверное)
 
 ## Ссылки
-- [Публичная страница на GitHub Pages](https://ВАШ_ЛОГИН.github.io/my-awesome-project/)
+- [Публичная страница на GitHub Pages](https://gray-advantage.github.io/MIREA-front-back-course/)
 
 ## Автор
 - Андреев Сергей ЭФБО-01-24
